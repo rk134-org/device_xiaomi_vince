@@ -59,5 +59,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+# QCOM namepsaces
+QCOM_SOONG_NAMESPACE := \
+    $(LOCAL_PATH)/qcom-caf
+
 # Inherit from vendor blobs
 $(call inherit-product, vendor/xiaomi/vince/vince-vendor.mk)
