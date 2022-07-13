@@ -51,6 +51,7 @@ PRODUCT_PACKAGES += \
 
 # Rootdir
 PRODUCT_PACKAGES += \
+    fstab.qcom \
     init.recovery.qcom.rc \
     init.vince.rc
 
