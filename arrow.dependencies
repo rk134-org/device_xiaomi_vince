@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "rk134-org/device_xiaomi_msm8953-common",
+    "target_path": "device/xiaomi/msm8953-common",
+    "branch": "arrow-12.1",
+    "remote": "github"
+  },
+  {
+    "repository": "pixelexperience-devices/kernel_xiaomi_vince",
+    "target_path": "kernel/xiaomi/vince",
+    "branch": "twelve-plus",
+    "remote": "github"
+  },
+  {
+    "repository": "rk134-org/vendor_xiaomi_vince",
+    "target_path": "vendor/xiaomi/vince",
+    "branch": "arrow-12.1",
+    "remote": "github"
+  },
+  {
+    "repository": "rk134-org/vendor_xiaomi_msm8953-common",
+    "target_path": "vendor/xiaomi/msm8953-common",
+    "branch": "arrow-12.1",
+    "remote": "github"
+  },
+  {
+		"repository": "Panchajanya1999/azure-clang",
+		"target_path": "prebuilts/clang/host/linux-x86/clang-15",
+		"branch": "main",
+		"remote": "gitlab"
+	}
+]
